@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7d73cf4-7d06-4f73-88dc-314963554521" name="Changes" comment="Finished">
-      <change beforePath="$PROJECT_DIR$/lena.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_binary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_blurred.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_contrast.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_downscaled.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_flipped.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_gray.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_negative.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/report.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b7d73cf4-7d06-4f73-88dc-314963554521" name="Changes" comment="Tided the directories" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +18,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -49,7 +52,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "a6d0578e",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712921353110</updated>
       <workItem from="1712921362318" duration="4943000" />
-      <workItem from="1712926367361" duration="111000" />
+      <workItem from="1712926367361" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="Finished">
       <option name="closed" value="true" />
@@ -85,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712925667569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tided the directories">
+      <option name="closed" value="true" />
+      <created>1712926757381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712926757381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished" />
+    <MESSAGE value="Tided the directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tided the directories" />
   </component>
 </project>
